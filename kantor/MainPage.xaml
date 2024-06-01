@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="kantor.MainPage">
+             x:Class="kantor.MainPage"
+             xmlns:local="clr-namespace:kantor;assembly=kantor"
+             xmlns:lvc="clr-namespace:LiveChartsCore.SkiaSharpView.Maui;assembly=LiveChartsCore.SkiaSharpView.Maui">
 
     <Grid x:Name="outerGrid">
     </Grid>
-
 </ContentPage>

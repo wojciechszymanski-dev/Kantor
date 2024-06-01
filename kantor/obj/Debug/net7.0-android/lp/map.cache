@@ -155,3 +155,14 @@ maui.aar
 Microsoft.Maui.aar
 Microsoft.Maui.Essentials.aar
 Xamarin.Google.Crypto.Tink.Android.aar
+HarfBuzzSharp.dll
+LiveChartsCore.Behaviours.dll
+LiveChartsCore.dll
+LiveChartsCore.SkiaSharpView.dll
+LiveChartsCore.SkiaSharpView.Maui.dll
+SkiaSharp.dll
+SkiaSharp.Views.Android.dll
+SkiaSharp.Views.Maui.Controls.Compatibility.dll
+SkiaSharp.Views.Maui.Controls.dll
+SkiaSharp.Views.Maui.Core.dll
+SkiaSharp.Views.Android.aar

@@ -217,7 +217,6 @@ C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\w
 C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
 C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
 C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
-C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1624.6629.dll
 C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
 C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
 C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
@@ -322,3 +321,17 @@ C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\w
 C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1924.21523.dll
+C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\HarfBuzzSharp.dll
+C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LiveChartsCore.dll
+C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LiveChartsCore.Behaviours.dll
+C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LiveChartsCore.SkiaSharpView.dll
+C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LiveChartsCore.SkiaSharpView.Maui.dll
+C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SkiaSharp.dll
+C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SkiaSharp.HarfBuzz.dll
+C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SkiaSharp.Views.Maui.Controls.dll
+C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SkiaSharp.Views.Maui.Controls.Compatibility.dll
+C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SkiaSharp.Views.Maui.Core.dll
+C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SkiaSharp.Views.Windows.dll
+C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\libHarfBuzzSharp.dll
+C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\libSkiaSharp.dll

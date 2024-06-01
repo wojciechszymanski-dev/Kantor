@@ -1,4 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
+using SkiaSharp.Views.Maui.Controls.Hosting;
+using LiveChartsCore.SkiaSharpView;
+using SkiaSharp;
 
 namespace kantor
 {
@@ -8,6 +11,7 @@ namespace kantor
         {
             var builder = MauiApp.CreateBuilder();
             builder
+                .UseSkiaSharp(true)
                 .UseMauiApp<App>()
                 .ConfigureFonts(fonts =>
                 {
