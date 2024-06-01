@@ -22,7 +22,7 @@ Features
    * System.Threading.Tasks
 
 ## Getting Started
-Prerequisites
+### Prerequisites
 
    * .NET SDK
    * MAUI workload installed
@@ -46,7 +46,7 @@ Prerequisites
           dotnet build
           dotnet run
 
-Project Structure
+## Project Structure
 
    * MainPage.xaml: Contains the UI elements of the main page.
    * MainPage.xaml.cs: Contains the logic for handling UI interactions and fetching data from the NBP API.
