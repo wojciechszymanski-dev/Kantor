@@ -43,8 +43,8 @@ Installation
 
 Running the Application
 
-      dotnet build
-      dotnet run
+        dotnet build
+        dotnet run
 
 Project Structure
 
