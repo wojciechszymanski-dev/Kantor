@@ -53,7 +53,7 @@ Features
    * Models: Contains data models for deserializing JSON responses from the API.
 
 ## Code Explanation
-Initialization
+### Initialization
 
 The MainPage class initializes the UI components and sets up the currency list and the main layout grid.
 UI Setup
@@ -61,20 +61,20 @@ UI Setup
    * InitializeUI(): Configures the main layout, adding a scrollable list of currency buttons and a grid for displaying exchange information.
    * CreateInnerGrid(): Sets up the inner grid with initial labels and styling.
 
-Event Handling
+### Event Handling
 
    * Button Click Event: Each currency button sets its background color when clicked and calls ShowExchangeMenu() to display the exchange details.
    * Text Changed Event: Validates and updates the converted currency value when the input text changes.
 
-Data Fetching
+### Data Fetching
 
    * FetchAndDisplayData(): Fetches the exchange rates or gold prices from the NBP API, parses the JSON response, and updates the chart with the latest data.
 
-Chart Display
+### Chart Display
 
    * ShowExchangeMenu(): Dynamically creates UI elements for currency exchange, including an entry for PLN value and a label for the converted value. It also fetches and displays the exchange rate data in a chart.
 
-Usage
+## Usage
 
    1. Select Currency: Click on any currency button to view its exchange rate against PLN.
    2. View Chart: The application will display a line chart showing the historical exchange rates for the last 30 days.
