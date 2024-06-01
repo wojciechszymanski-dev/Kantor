@@ -14,7 +14,8 @@ namespace kantor
     {
         Grid innerGrid = new Grid();
         Label label;
-        StackLayout stack;
+        VerticalStackLayout stack;
+        Label exchangedCurrencyValue;
         bool removeLabel = false;
         static List<string> dates;
         static List<double> values = new();
@@ -113,7 +114,7 @@ namespace kantor
             if (label != null) innerGrid.Remove(label);
             if (stack != null) innerGrid.Remove(stack);
 
-            stack = new StackLayout();
+            stack = new VerticalStackLayout();
 
             label = new Label
             {
@@ -123,7 +124,7 @@ namespace kantor
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center,
                 VerticalOptions = LayoutOptions.Start,
-                Margin = new Thickness(0, 0, 0, 10)
+                Margin = new Thickness(0, 10, 0, 20)
             };
 
             stack.Children.Add(label);
@@ -133,13 +134,28 @@ namespace kantor
                 WidthRequest = 100,
                 Text = "0"
             };
+            
             entry.TextChanged += (sender, e) =>
             {
                 if (!string.IsNullOrEmpty(entry.Text) && !int.TryParse(entry.Text, out _))
                     entry.Text = entry.Text.Substring(0, entry.Text.Length - 1);
+
+                if(!string.IsNullOrEmpty(entry.Text))
+                {
+                    double val = 0;
+                    if (double.TryParse(entry.Text, out val))
+                        exchangedCurrencyValue.Text = (val * values[values.Count - 1]).ToString("0.00");
+                }
             };
 
-            stack.Children.Add(entry);
+            exchangedCurrencyValue = new Label 
+            {
+                HorizontalTextAlignment = TextAlignment.Center,
+            };
+
+
+            stack.Add(entry);
+            stack.Add(exchangedCurrencyValue);
 
             await FetchAndDisplayData(currency);
 
@@ -161,8 +177,8 @@ namespace kantor
             string apiUrl = (currency.Equals("GOLD"))
                                 ? "https://api.nbp.pl/api/cenyzlota/last/30/?format=json" 
                                 : $"https://api.nbp.pl/api/exchangerates/rates/A/{currency}/last/30/?format=json";
-            string response = await client.GetStringAsync(apiUrl);
 
+            string response = await client.GetStringAsync(apiUrl);
             JsonDocument doc = JsonDocument.Parse(response);
             JsonElement root = doc.RootElement;
 
@@ -215,7 +231,6 @@ namespace kantor
                 HeightRequest = 400,
                 ZoomMode = (LiveChartsCore.Measure.ZoomAndPanMode)X
             };
-
             stack.Children.Add(chart);
         }
     }
