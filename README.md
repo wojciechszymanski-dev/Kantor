@@ -27,7 +27,7 @@ Prerequisites
    * .NET SDK
    * MAUI workload installed
 
-Installation
+### Installation and running
 
 1. Clone the repository:
 
@@ -41,7 +41,7 @@ Installation
 
          dotnet restore
 
-Running the Application
+4. Run the Application
 
           dotnet build
           dotnet run
