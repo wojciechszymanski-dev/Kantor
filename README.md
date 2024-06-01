@@ -31,19 +31,20 @@ Installation
 
     1. Clone the repository:
 
-![image](https://github.com/wojciechszymanski-dev/Kantor/assets/61559054/0f0012ca-d22c-4340-857a-84ce5301f8c4)
+git clone https://github.com/wojciechszymanski-dev/kantor.git
 
     2. Navigate to the project directory:
 
-![image](https://github.com/wojciechszymanski-dev/Kantor/assets/61559054/6fe0230f-5a47-40ee-b5aa-db016e6b7b80)
+      cd kantor
 
     3. Restore the dependencies:
 
-![image](https://github.com/wojciechszymanski-dev/Kantor/assets/61559054/ee23a41e-9b2b-410a-9dc9-e78edb92dee4)
+      dotnet restore
 
 Running the Application
 
-![image](https://github.com/wojciechszymanski-dev/Kantor/assets/61559054/fac7e54d-22e7-4eef-bca2-cf086857dc8e)
+      dotnet build
+      dotnet run
 
 Project Structure
 
