@@ -29,17 +29,17 @@ Prerequisites
 
 Installation
 
-    1. Clone the repository:
+1. Clone the repository:
 
-git clone https://github.com/wojciechszymanski-dev/kantor.git
+         git clone https://github.com/wojciechszymanski-dev/kantor.git
 
-    2. Navigate to the project directory:
+2. Navigate to the project directory:
 
-      cd kantor
+         cd kantor
 
-    3. Restore the dependencies:
+ 3. Restore the dependencies:
 
-      dotnet restore
+         dotnet restore
 
 Running the Application
 
