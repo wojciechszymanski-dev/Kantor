@@ -1,4 +1,4 @@
-# kantor
+# Kantor
 
 ## Overview
 
