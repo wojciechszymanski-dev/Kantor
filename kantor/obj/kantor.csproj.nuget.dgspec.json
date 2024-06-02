@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wojci\\source\\repos\\kantor\\kantor\\kantor.csproj": {}
+    "C:\\Users\\wojci\\OneDrive\\Dokumenty\\GitHub\\kantor\\kantor\\kantor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wojci\\source\\repos\\kantor\\kantor\\kantor.csproj": {
+    "C:\\Users\\wojci\\OneDrive\\Dokumenty\\GitHub\\kantor\\kantor\\kantor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wojci\\source\\repos\\kantor\\kantor\\kantor.csproj",
+        "projectUniqueName": "C:\\Users\\wojci\\OneDrive\\Dokumenty\\GitHub\\kantor\\kantor\\kantor.csproj",
         "projectName": "kantor",
-        "projectPath": "C:\\Users\\wojci\\source\\repos\\kantor\\kantor\\kantor.csproj",
+        "projectPath": "C:\\Users\\wojci\\OneDrive\\Dokumenty\\GitHub\\kantor\\kantor\\kantor.csproj",
         "packagesPath": "C:\\Users\\wojci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wojci\\source\\repos\\kantor\\kantor\\obj\\",
+        "outputPath": "C:\\Users\\wojci\\OneDrive\\Dokumenty\\GitHub\\kantor\\kantor\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

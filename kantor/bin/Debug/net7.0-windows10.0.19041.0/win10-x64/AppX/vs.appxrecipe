@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>acc259de-e394-40f5-a633-8f2764ce82bb</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>7DEE644934EAC8431DA54611A5D8AEC1F4AD65CDBB74F2D97B1782656F2994F9</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>acc259de-e394-40f5-a633-8f2764ce82bb_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>acc259de-e394-40f5-a633-8f2764ce82bb_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,32 +26,32 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-02T04:40:21.822</Modified>
+      <Modified>2024-06-02T04:48:57.936</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-06-02T04:40:21.618</Modified>
+      <Modified>2024-06-02T04:48:57.685</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\kantor.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\kantor.runtimeconfig.json">
       <PackagePath>kantor.runtimeconfig.json</PackagePath>
-      <Modified>2024-06-01T11:19:14.232</Modified>
+      <Modified>2024-06-02T04:45:42.882</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\kantor.dll">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\kantor.dll">
       <PackagePath>kantor.dll</PackagePath>
-      <Modified>2024-06-02T04:40:20.943</Modified>
+      <Modified>2024-06-02T04:45:41.988</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>kantor.exe</PackagePath>
-      <Modified>2024-06-02T04:40:20.975</Modified>
+      <Modified>2024-06-02T04:45:42.004</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\kantor.deps.json">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\kantor.deps.json">
       <PackagePath>kantor.deps.json</PackagePath>
-      <Modified>2024-06-01T11:19:14.128</Modified>
+      <Modified>2024-06-02T04:45:42.772</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\wojci\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.19\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -989,239 +989,239 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-11-02T20:30:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-06-01T04:00:53.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-06-01T04:01:05.586</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-06-01T04:01:05.586</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-06-01T04:01:05.602</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-06-01T04:01:05.634</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-06-01T04:01:05.712</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-06-01T04:00:53.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-06-01T04:00:53.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2024-06-01T04:01:05.743</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2024-06-01T04:01:05.916</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2024-06-01T04:01:05.916</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2024-06-01T04:01:05.932</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2024-06-01T04:01:05.932</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2024-06-01T04:01:05.979</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2024-06-01T04:01:05.790</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2024-06-01T04:01:05.790</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2024-06-01T04:01:05.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2024-06-01T04:01:05.790</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2024-06-01T04:01:05.790</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2024-06-01T04:01:05.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2024-06-01T04:01:05.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2024-06-01T04:01:05.790</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2024-06-01T04:01:05.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2024-06-01T04:01:05.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2024-06-01T04:01:05.743</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2024-06-01T04:01:05.743</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2024-06-01T04:01:05.759</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2024-06-01T04:01:05.759</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2024-06-01T04:01:05.759</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2024-06-01T04:01:05.759</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2024-06-01T04:01:05.759</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2024-06-01T04:01:05.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2024-06-01T04:01:05.759</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2024-06-01T04:01:05.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2024-06-01T04:01:05.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2024-06-01T04:01:05.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2024-06-01T04:01:05.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2024-06-01T04:01:05.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2024-06-01T04:01:05.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2024-06-01T04:01:05.822</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2024-06-01T04:01:05.822</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2024-06-01T04:01:05.822</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2024-06-01T04:01:05.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2024-06-01T04:01:05.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2024-06-01T04:01:05.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2024-06-01T04:01:05.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2024-06-01T04:01:05.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2024-06-01T04:01:05.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2024-06-01T04:01:05.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2024-06-01T04:01:05.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2024-06-01T04:01:05.869</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2024-06-01T04:01:05.869</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2024-06-01T04:01:05.885</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-06-01T04:01:05.900</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2024-06-01T04:01:05.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2024-06-01T04:01:05.775</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2024-06-01T04:01:05.790</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2024-06-01T04:01:05.790</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\wojci\OneDrive\Dokumenty\GitHub\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2024-06-01T04:01:05.829</Modified>
     </AppxPackagedFile>

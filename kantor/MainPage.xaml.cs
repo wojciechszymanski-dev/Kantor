@@ -49,7 +49,7 @@ namespace kantor
 
             outerGrid.AddRowDefinition(new RowDefinition(10));
             outerGrid.AddRowDefinition(new RowDefinition(new GridLength(1, GridUnitType.Star)));
-            outerGrid.AddColumnDefinition(new ColumnDefinition(10));
+            outerGrid.AddRowDefinition(new RowDefinition(10));
 
             ScrollView scrollView = new ScrollView
             {
