@@ -203,6 +203,9 @@ namespace kantor
                 }
             }
 
+            IList<string> vl = new List<string>();
+            vl = dates.ToList();
+
             var chart = new CartesianChart
             {
                 Series = new ObservableCollection<ISeries>
@@ -223,13 +226,14 @@ namespace kantor
                 {
                     new Axis
                     {
-                        Labels = dates.ToArray(),
+                        TextSize = 10,
+                        LabelsRotation = 45,
+                        Labels = vl,
                         MinStep = 1,
                     }
                 },
-                WidthRequest = 800,
-                HeightRequest = 400,
-                ZoomMode = (LiveChartsCore.Measure.ZoomAndPanMode)X
+                WidthRequest = (innerGrid.Width - 400),
+                HeightRequest = 500,
             };
             stack.Children.Add(chart);
         }
