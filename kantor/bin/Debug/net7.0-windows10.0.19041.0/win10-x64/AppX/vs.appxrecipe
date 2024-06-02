@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-02T04:26:28.430</Modified>
+      <Modified>2024-06-02T04:40:21.822</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-06-02T04:26:28.289</Modified>
+      <Modified>2024-06-02T04:40:21.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\kantor.runtimeconfig.json">
       <PackagePath>kantor.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\kantor.dll">
       <PackagePath>kantor.dll</PackagePath>
-      <Modified>2024-06-02T04:26:27.771</Modified>
+      <Modified>2024-06-02T04:40:20.943</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>kantor.exe</PackagePath>
-      <Modified>2024-06-02T04:26:27.771</Modified>
+      <Modified>2024-06-02T04:40:20.975</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\wojci\source\repos\kantor\kantor\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\kantor.deps.json">
       <PackagePath>kantor.deps.json</PackagePath>

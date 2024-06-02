@@ -203,9 +203,6 @@ namespace kantor
                 }
             }
 
-            IList<string> vl = new List<string>();
-            vl = dates.ToList();
-
             var chart = new CartesianChart
             {
                 Series = new ObservableCollection<ISeries>
@@ -228,7 +225,7 @@ namespace kantor
                     {
                         TextSize = 10,
                         LabelsRotation = 45,
-                        Labels = vl,
+                        Labels = dates.ToArray(),
                         MinStep = 1,
                     }
                 },
